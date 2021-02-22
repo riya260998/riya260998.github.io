@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to Riya Sinha's Pages
+Hello!! Thank you for showing interest in my profile!!
 
-You can use the [editor on GitHub](https://github.com/riya260998/riya260998.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# I work as an Associate Consultant at Allstate India Private Ltd.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Allstate is an American Insurance giant and we at Allstate India helps them to facilitate their online business by creating and maintaing various websites and services that the agents and customer of Allstate use.
 
-### Markdown
+## I have Done my Bachelors Degree in Computer Science and Engineering from National Institute of Technology Nagaland in 2019.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### My Skill Set are as follows
+- React JS
+- .NET
+- Java
+- Python
+- PHP
+- HTML
 
-```markdown
-Syntax highlighted code block
+### I have a nice academic record with 9.69 CGPA in B.tech and 95.6% marks in class 12th. I also Have a complete 10 CGPA in class 10th
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/riya260998/riya260998.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Thank You for showing interest in my profile!! 
